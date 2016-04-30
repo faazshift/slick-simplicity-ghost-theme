@@ -1,10 +1,18 @@
 /* Misc customizations */
+header#header {
+	margin-bottom: 0;
+}
+
 header#header h1:hover {
 	color: #CCC;
 }
 
 header#header nav > ul > li a:hover {
 	color: #CCC;
+}
+
+aside#description .page-description {
+	padding: 10px 0 20px;
 }
 
 .post-content {
