@@ -667,7 +667,7 @@ input[type="submit"], input[type="reset"], input[type="button"], .button {
     -ms-transition: color 0.2s ease-in-out;
     transition: color 0.2s ease-in-out;
     color: #444;
-    font-family: 'Megrim', Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     position: absolute;
     height: inherit;
     line-height: inherit;
