@@ -1,8 +1,8 @@
-# Aventurine Ghost Theme
+# Slick Simplicity Ghost Theme
 
-A minimal [Ghost](http://github.com/tryghost/ghost/) freebie to get your first blog up and running beautifully.
+A slick, simple theme for [Ghost](http://github.com/tryghost/ghost/) derived from Aventurine Ghost Theme by @alexritchey.
 
-## Copyright & License
+### Original Copyright & License
 
 © 2014 Crystalline Themes. All rights reserved.
 
