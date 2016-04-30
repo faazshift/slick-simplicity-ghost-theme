@@ -1,0 +1,61 @@
+/* Misc customizations */
+header#header h1:hover {
+	color: #CCC;
+}
+
+header#header nav > ul > li a:hover {
+	color: #CCC;
+}
+
+.post-content {
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+	-ms-word-break: break-all;
+	word-break: break-all;
+	word-break: break-word;
+	-ms-hyphens: auto;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+	hyphens: auto;
+}
+
+a {
+	color: #4FA1DB;
+	text-decoration: none;
+}
+
+h4 {
+	font-weight: 600;
+}
+
+blockquote {
+	color: #666;
+	background-color: rgba(128, 128, 128, 0.05);
+	padding: 0.5em 2em 0.5em 2em;
+}
+
+blockquote p {
+	margin: 0.8em 0px;
+}
+
+footer#footer {
+	background: #CCC;
+}
+
+.footnote {
+/*	text-decoration: none;
+	vertical-align: super;
+	font-size: 80%;
+	line-height: 0;*/
+}
+
+.copyright-notice {
+	/*font-size: 80%;
+	font-style: italic;*/
+}
+
+/* Supplemental cell configuration for Skel */
+@media all and (min-width: 768px) {
+	article.\38 u { max-width: 67.6666666667% !important; }
+	aside.\34 u { max-width: 23.3333333333% !important; }
+}
