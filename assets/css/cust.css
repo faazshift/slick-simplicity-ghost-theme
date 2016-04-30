@@ -3,6 +3,12 @@ header#header {
 	margin-bottom: 0;
 }
 
+@media all and (max-width: 980px) {
+	header#header {
+		height: auto;
+	}
+}
+
 header#header h1:hover {
 	color: #CCC;
 }
@@ -15,11 +21,21 @@ aside#description .page-description {
 	padding: 10px 0 20px;
 }
 
+#navPanel {
+	background: #CCC;
+}
+
+#navButton .toggle:before {
+	background: #CCC;
+}
+
+.post-featured:after {
+	background: #CCC;
+}
+
 .post-content {
 	overflow-wrap: break-word;
 	word-wrap: break-word;
-	-ms-word-break: break-all;
-	word-break: break-all;
 	word-break: break-word;
 	-ms-hyphens: auto;
 	-moz-hyphens: auto;
